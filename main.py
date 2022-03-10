@@ -8,7 +8,7 @@ from PIL import ImageDraw
 
 client = discord.Client()
 
-token = 'OTQ5NzYxMTA3MTA5NzUyODcy.YiPD9Q.ei6E6KEGntMXPDKofjAjckx8cYM'
+token = ''
 command = '=w='
 
 # string stuff
